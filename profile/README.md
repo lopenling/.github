@@ -1,3 +1,9 @@
+<h5 align="center">
+  <br>
+  <a href="https://github.com/lopenling"><img src="https://raw.githubusercontent.com/lopenling/Home/main/assets/Lopenling-Logo-Icon.png" alt="Lopen Ling" width="100"></a>
+  <br>
+</h5r>
+
 ## :question: What Is It?
 
 Lopenling is an end-to-end translation ecosystem. Lopenling gets its name from the translation department of Samye, the iconic monastery in Lhasa from the 8th century. Lopenling is built for the community focused on the translation of Tibetan texts, by that same community.
