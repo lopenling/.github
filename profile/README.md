@@ -14,7 +14,7 @@ Lopenling is an end-to-end translation ecosystem. Lopenling gets its name from t
 - [Application-Backend](https://github.com/lopenling/Application-Backend) for the core application backend
 - [Editor](https://github.com/lopenling/Editor) for pre-translation phase editorial of texts
 - [Requests](https://github.com/lopenling/Requests) for managing RFWs and RFCs
-- [Home](https://github.com/lopenling/Requests) for housekeeping issues and Wiki
+- [Home](https://github.com/lopenling/Home) for housekeeping issues and Wiki
 - [New-Repository-Template](https://github.com/lopenling/New-Repository-Template) for creating new repositories
 
 ## :house: Ownership
