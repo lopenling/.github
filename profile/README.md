@@ -8,6 +8,15 @@
 
 Lopenling is an end-to-end translation ecosystem. Lopenling gets its name from the translation department of Samye, the iconic monastery in Lhasa from the 8th century. Lopenling is built for the community focused on the translation of Tibetan texts, by that same community.
 
+**QUICK LINKS:**
+
+- [Application-Frontend](https://github.com/lopenling/Application-Frontend) for the core application frontend
+- [Application-Backend](https://github.com/lopenling/Application-Backend) for the core application backend
+- [Editor](https://github.com/lopenling/Editor) for pre-translation phase editorial of texts
+- [Requests](https://github.com/lopenling/Requests) for managing RFWs and RFCs
+- [Home](https://github.com/lopenling/Requests) for housekeeping issues and Wiki
+- [New-Repository-Template](https://github.com/lopenling/New-Repository-Template) for creating new repositories
+
 ## :house: Ownership
 
 There is no formal organization behind Lopenling; it is an entirely community-led project. 
